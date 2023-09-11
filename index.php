@@ -103,7 +103,8 @@ Section: ZBB
                     <div class="home-text">
                         <h3>Hi!</h3>
                         <h2>I'm <span class="color">Jasper</span></h2>
-                        <p>I am an international student from Philippines and am Pursuing an Advanced Diploma in Computer Programming at Seneca College to further enchance my skill as an IT professionals. I am passionate about Software Development and I look forward to connecting with you.</p>
+                        <p>To establish a fulfilling and rewarding career in Information Technology, specializing in Programming and Networking, 
+                            while contributing to the success of IT operations. I recently graduated and received an Advanced Diploma in Computer Programming at Seneca College to further enchance my skill as an IT professionals. I am passionate about Software Development and I look forward to connecting with you.</p>
                     </div>
                     <div class="home-btns">
                         <a download="Jasper Aga Camana - Updated Resume.pdf" href="./Assets/Files/Jasper Aga Camana - Updated Resume.pdf">
@@ -124,14 +125,24 @@ Section: ZBB
                         <pre><strong>AGE:</strong>              38</pre>
                         <pre><strong>EMAIL:</strong>            jcamana@myseneca.ca</pre>
                         <pre><strong>LANGUAGE:</strong>         English, Tagalog</pre>
-                        <pre><strong>CLASS SECTION:</strong>    ZBB</pre>
-                        <pre><strong>STUDENT ID:</strong>       171139215</pre>
-                        <pre><strong>INSTRUCTOR:</strong>       Mr. Mark Meritt</pre>
+                        
+                        
                     </div>
                     <div class="about-text">
                         <span class="abt-span">About Me and Academic Honesty</span>
                         <p>I am Jasper, a web developer by profession, who creates online applications for certain organizations. I love the thrill of finishing a new project and seeing smiles on my clients’ faces as they use my application.
-                        <br><br>I declare that my assessment is wholly my own work in accordance with Seneca Academic Policy. No part of this assessment has been copied manually or electronically from any other source (including web sites) except for the information supplied by the WEB222 instructors and/or made available in this assessment for my use. I also declare that no part of this assignment has been distributed to other students.</p>
+                        </p>
+                        
+                        <span class="abt-span">Key Skills and Responsibilities </span>    
+                                <ul class="list-group"> 
+                                    <li>Programming: Proficient in a diverse range of programming languages, including PHP, ASP.NET C#, ReactJS, and JavaScript, enabling the development of robust and scalable applications.</li>
+                                    <li>Database Administration: Experienced in the management and optimization of databases, with expertise in MSSQL, Oracle, and MySQL, ensuring data integrity and performance.</li>
+                                    <li>System and Network Management: Demonstrated ability in the proactive maintenance and monitoring of computer systems and networks, with a specialized focus on Azure cloud management for seamless and efficient operations.</li>
+                                    <li>Operating Systems: Competent across multiple operating systems, including Microsoft, Mac, and Linux, ensuring adaptability and versatility in diverse IT environments.</li>
+                                    <li>Microsoft Office Suite: Proficient in Microsoft Excel, Word, PowerPoint, Visio, and Outlook, facilitating effective documentation, reporting, and communication for enhanced productivity and collaboration.</li>
+
+                                </ul>
+                        
                         <span><strong>Date: </strong></span><p>December 14, 2022</p>
                     </div>
                 </div>
@@ -150,7 +161,7 @@ Section: ZBB
                     <div class="education-box">
                         <i class="uil uil-university"></i>
                         <h2>Seneca College</h2>
-                        <p>Computer Programming,<br>May 2022 - December 2023</p>
+                        <p>Computer Programming,<br>May 2022 - August 2023</p>
                     </div>
                 </div>
             </section>
@@ -272,9 +283,7 @@ Section: ZBB
         <!-- Webpage Footer -->
         <footer class="footer">
             <h4>Jasper Aga Camaña</h4>
-            <p>
-            I declare that my assessment is my own work in accordance with Seneca Academic Policy.
-            <br> <span>Copyright&copy; 2022</span></p>
+            <p><span>Copyright&copy; 2022</span></p>
             <div class="icons">
                 <a href="https://www.linkedin.com/in/jasperagacamana/" target="_blank"><i class="uil uil-linkedin"></i></a>                
                 <a href="https://www.facebook.com/tazniel" target="_blank"><i class="uil uil-facebook"></i></a>  
