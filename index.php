@@ -106,6 +106,7 @@ Section: ZBB
                         <p>To establish a fulfilling and rewarding career in Information Technology, specializing in Programming and Networking, 
                             while contributing to the success of IT operations. I recently graduated and received an Advanced Diploma in Computer Programming at Seneca College to further enchance my skill as an IT professionals. I am passionate about Software Development and I look forward to connecting with you.</p>
                     </div>
+                    
                     <div class="home-btns">
                         <a download="Jasper Aga Camana - Updated Resume.pdf" href="./Assets/Files/Jasper Aga Camana - Updated Resume.pdf">
                             <button class="btn"><i class="uil uil-import"></i>Resume</button></a>
